@@ -158,3 +158,47 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+########################################################################
+# Streamlit
+########################################################################
+.streamlit/
+lib/streamlit/static
+streamlit-storage
+
+# Data Files
+**/uber-raw-data-sep14.csv
+
+lib/Pipfile.lock
+.env
+#####################################################################
+# Airflow configuration
+####################################################################
+airflow.cfg
+airflow_login.py
+dbinit.py
+initdb.py
+secrets.py
+
+####################################################################
+# Airflow sqlite databases
+####################################################################
+airflow.db
+
+#####################################################################
+# Airflow temporary artifacts
+####################################################################
+airflow/git_version
+airflow/www/static/coverage/
+airflow/www/*.log
+**/logs/
+airflow-webserver.pid
+standalone_admin_password.txt
+warnings.txt
+
+
+##################################################################
+# Python
+##################################################################
+**/__pycache__
+.pyvenv
