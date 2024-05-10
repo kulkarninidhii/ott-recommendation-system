@@ -76,7 +76,7 @@ def rag_bot(query):
 def rag_chain():
 
     llm = ChatOpenAI(
-        openai_api_key='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',
+        openai_api_key='',
         model_name='gpt-3.5-turbo',
         temperature=0.0
     )
