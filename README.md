@@ -19,7 +19,9 @@ Experience the power of personalized content discovery:
 # Run Application Locally
 
 1. Clone the repo.
-2. Install the dependencies. ``` pip install -r requirements.txt ```
+2. Install the dependencies.
+
+``` pip install -r requirements.txt ```
 3. Run the Dockerfile to generate the image and run the Docker compose file to bring up the instances.
 ```
 docker build -t <image_name> .
