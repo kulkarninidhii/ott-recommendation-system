@@ -10,8 +10,11 @@ With a focus on genre and mood-based filtering, as well as occasion-specific rec
 
 Experience the power of personalized content discovery:
 
-[![Codelabs Tutorial](https://img.shields.io/badge/Codelabs_Tutorial-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1z-pGIA6HOZregKgnnslvBE-ZZRUS_rhmiQvnVc8Xoww#0)
 [![Demo Video](https://img.youtube.com/vi/CCX3OuMF1FU/hqdefault.jpg)](https://youtu.be/CCX3OuMF1FU)
+
+# Architecture Details
+
+[![Codelabs Tutorial](https://img.shields.io/badge/Codelabs_Tutorial-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1z-pGIA6HOZregKgnnslvBE-ZZRUS_rhmiQvnVc8Xoww#0)
 
 # Run Application Locally
 
