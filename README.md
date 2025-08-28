@@ -94,6 +94,6 @@ docker build -t <image_name> .
 ```
 docker compose up -d
 ```
-This is create an airflow instance, postgresDB, streamlit for frontend and fastapi for backend.
+This will create an airflow instance, postgresDB, streamlit for frontend and fastapi for backend.
 
 Happy Watching!
